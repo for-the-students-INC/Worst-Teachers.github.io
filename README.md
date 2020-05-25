@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Worst teachers award
 
-You can use the [editor on GitHub](https://github.com/for-the-students-INC/Worst-Teachers.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+starting in 2020, we decided that students should be able to send "anti-appreciation" to the teachers who dont do a good job at what they do. the job of teaching should be done with a high level of teacher-student cross respect. the teachers who dont do that end up on this list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# What do we do?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+we simply offer the right means for students to anonymously send there pain back to teachers. lets be clear here, **we dont condemn or support bullying teachers in broadly disrespectful ways**. we simply tell the teacher that there style of teaching isn't the best and that they need to loosen up. we fully support making hands on learning and more creative teaching types the norm. so when a teacher teaches useless information through a presentation and makes a test that is just the slideshow, verbatim, with missing terms, that's when students send us the info and we get to work.
 
-```markdown
-Syntax highlighted code block
+## who are we?
 
-# Header 1
-## Header 2
-### Header 3
+we prefer to go by anonymous monikers for the sake of privacy and protection against student with the free will of free speech and press. if you decide to mention us, please refer to us as our given monikers;
+ - **ExuDoS** 	
+ - **Jason Vulkan** 	
+ - **Jardani Jovanavich** 	
+ - **Timothy E. Gaston**
 
-- Bulleted
-- List
+## How do i contact you about my teacher?
 
-1. Numbered
-2. List
+its really easy, [contacting this GitHub account](https://github.com/for-the-students-INC) will get your message read by any one of us here. and if you list the circumstances of why you're submitting a teacher will help us better rank them on the worst teacher of the year award. of which we only do once a year.
 
-**Bold** and _Italic_ and `Code` text
+## Whats the worst teachers award?
 
-[Link](url) and ![Image](src)
-```
+the worst teachers award is our preferred way to let teachers know there bad. at the end of the school year we rank each teacher we've been submitted on a list that where the higher up you are the worse you are. the top ten will get an email from us personally and the top three will be given the middle finger award. because everyone here is anonymous its safer than doing something similar yourselves.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/for-the-students-INC/Worst-Teachers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What about the best teacher?
+we knew you'd ask.
+if a teacher has been good and valid proof of it can be provided than we will personally reach out to the best and thank them for not treating their students like shit, unlike the worst we award.
